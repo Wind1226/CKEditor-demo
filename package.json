@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^19.0.2",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^19.0.2",
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
